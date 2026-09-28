@@ -1,0 +1,17 @@
+C:\Users\PC07\Desktop\juego de aviones\juego_aviones_quispe_luque\juego_aviones_quispe_luque\bin\Debug\net10.0-windows\juego_aviones_quispe_luque.exe
+C:\Users\PC07\Desktop\juego de aviones\juego_aviones_quispe_luque\juego_aviones_quispe_luque\bin\Debug\net10.0-windows\juego_aviones_quispe_luque.deps.json
+C:\Users\PC07\Desktop\juego de aviones\juego_aviones_quispe_luque\juego_aviones_quispe_luque\bin\Debug\net10.0-windows\juego_aviones_quispe_luque.runtimeconfig.json
+C:\Users\PC07\Desktop\juego de aviones\juego_aviones_quispe_luque\juego_aviones_quispe_luque\bin\Debug\net10.0-windows\juego_aviones_quispe_luque.dll
+C:\Users\PC07\Desktop\juego de aviones\juego_aviones_quispe_luque\juego_aviones_quispe_luque\bin\Debug\net10.0-windows\juego_aviones_quispe_luque.pdb
+C:\Users\PC07\Desktop\juego de aviones\juego_aviones_quispe_luque\juego_aviones_quispe_luque\obj\Debug\net10.0-windows\juego_aviones_quispe_luque.Form1.resources
+C:\Users\PC07\Desktop\juego de aviones\juego_aviones_quispe_luque\juego_aviones_quispe_luque\obj\Debug\net10.0-windows\juego_aviones_quispe_luque.csproj.GenerateResource.cache
+C:\Users\PC07\Desktop\juego de aviones\juego_aviones_quispe_luque\juego_aviones_quispe_luque\obj\Debug\net10.0-windows\juego_aviones_quispe_luque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC07\Desktop\juego de aviones\juego_aviones_quispe_luque\juego_aviones_quispe_luque\obj\Debug\net10.0-windows\juego_aviones_quispe_luque.AssemblyInfoInputs.cache
+C:\Users\PC07\Desktop\juego de aviones\juego_aviones_quispe_luque\juego_aviones_quispe_luque\obj\Debug\net10.0-windows\juego_aviones_quispe_luque.AssemblyInfo.cs
+C:\Users\PC07\Desktop\juego de aviones\juego_aviones_quispe_luque\juego_aviones_quispe_luque\obj\Debug\net10.0-windows\juego_aviones_quispe_luque.csproj.CoreCompileInputs.cache
+C:\Users\PC07\Desktop\juego de aviones\juego_aviones_quispe_luque\juego_aviones_quispe_luque\obj\Debug\net10.0-windows\juego_aviones_quispe_luque.dll
+C:\Users\PC07\Desktop\juego de aviones\juego_aviones_quispe_luque\juego_aviones_quispe_luque\obj\Debug\net10.0-windows\refint\juego_aviones_quispe_luque.dll
+C:\Users\PC07\Desktop\juego de aviones\juego_aviones_quispe_luque\juego_aviones_quispe_luque\obj\Debug\net10.0-windows\juego_aviones_quispe_luque.pdb
+C:\Users\PC07\Desktop\juego de aviones\juego_aviones_quispe_luque\juego_aviones_quispe_luque\obj\Debug\net10.0-windows\juego_aviones_quispe_luque.genruntimeconfig.cache
+C:\Users\PC07\Desktop\juego de aviones\juego_aviones_quispe_luque\juego_aviones_quispe_luque\obj\Debug\net10.0-windows\ref\juego_aviones_quispe_luque.dll
+C:\Users\PC07\Desktop\juego de aviones\juego_aviones_quispe_luque\juego_aviones_quispe_luque\obj\Debug\net10.0-windows\juego_av.FE76548A.Up2Date
